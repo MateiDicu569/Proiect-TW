@@ -14,11 +14,12 @@ Sample data used across all stages:
 3. <item 3>, active, <tag>
 ## How to run
 Open `index.html` in a browser. No build step, no server.
-## AI usage
-| Tool | Used for |
-| -------------- | ----------------------------------------- |
-| <e.g. ChatGPT> | <what exactly, e.g. CSS Grid, stage 1> |
-Details per stage: see the ai-log/ folder.
-## Status
-- [x] Stage 1: static mockup
-☐ Stage 2: data logic in JavaScript
+# Stage 1: AI log
+## Tools
+- 
+## Conversations
+- 
+## Key requests
+### 
+## What I learned / what did not work
+<I learned how to properly use github.What did not work but was a really easy debu was about the README.It didn t show properly on github,apparently i didn t save it in vscod so ofc it showed nothing>
